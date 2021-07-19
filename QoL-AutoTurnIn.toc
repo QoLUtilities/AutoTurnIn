@@ -1,0 +1,12 @@
+## Interface: 90100
+## Title: QoL-AutoTurnIn
+## Author: redbeard923
+## Dependencies: QoL-Common
+## OptionaldDeps: QoL-AutoConfirm, QoL-AutoDecline
+## SavedVariables: ATI_Config_Acct
+## SavedVariablesPerCharacter: ATI_Config_Toon
+## Version: 1.0.0
+
+Events.lua
+Options.lua
+AutoTurnIn.lua
